@@ -11,6 +11,6 @@ elif(hour>=12 and hour<16):
 elif(hour>=16 and hour<20):
     print("Good Evening :)")
 else:
-    print("Good Evening -.-")
+    print("Good Night -.-")
 
 
